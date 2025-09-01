@@ -57,7 +57,7 @@ python hand_volume_control.py
 📊 Volume percentage + bar visible on screen
 
 # 📷 Demo
-(Add a GIF or screenshot here once you capture your program running)
+https://github.com/user-attachments/assets/b8859ba0-bef4-4bfe-a811-69a7f70c68ff
 
 # ⚠️ Notes
 Requires Windows (Pycaw doesn’t support Linux/macOS).
